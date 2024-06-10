@@ -320,12 +320,13 @@ print(a <= b)  # Output: False
 The if statement allows you to execute a block of code only if a condition is true.
 
 ```python
-age = 18
+temperature = 86  # Set the temperature
 
-if age >= 18:
-    print("You are an adult.")
+# Check if the temperature is greater than 90
+if temperature > 90:
+    print("It's hot outside. Let's eat in King Hall.")
 else:
-    print("You are a minor.")
+    print("The weather is nice. Let's eat outside of King Hall.")
 ```
 You can also have `elif` (else if) statements to check multiple conditions.
 ```python
