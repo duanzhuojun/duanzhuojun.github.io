@@ -391,9 +391,13 @@ Use the `def` keyword to define a function.
 # define a function
 def greet(name):
     print("Hello,", name)
+    print("Welcome to Bridges to Computing Camp at JMU")
 
 # use (invoke, or call) the function
-greet("Bob")  # Output: Hello, Bob
+greet("Bob")
+# Output:
+# Hello, Bob
+# Welcome to Bridges to Computing Camp at JMU
 ```
 
 ### Return Statement:
