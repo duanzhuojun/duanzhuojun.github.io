@@ -41,14 +41,20 @@ Thonny is an integrated development environment (IDE) specifically designed for 
 The first program every programmer writes is a "Hello, World!" program. Let's start with that in Thonny.
 
 1. Open Thonny.
-2. In the editor window, type the following code:
+2. Create a New File:
+  - Go to the `File` menu in the top left corner.
+  - Click on `New` to create a new file. This will open a new, empty editor window.
+4. In the new file, type the following line of code:
 
     ```python
     print("Hello, World!")
     ```
-
-3. Save the file with a `.py` extension (e.g., `hello.py`).
-4. Run the program by clicking the **Run** button (green arrow) or pressing `F5`.
+5. Save the File:
+  - Click on the `File` menu again.
+  - Select `Save As...`.
+  - Choose a location on your computer where you want to save the file.
+  - Name your file `hello_world.py` and click `Save`.
+8. Run the program by clicking the **Run** button (green arrow) or pressing `F5`.
 
 You should see the output `Hello, World!` in the shell window at the bottom.
 
