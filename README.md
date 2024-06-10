@@ -368,6 +368,7 @@ while i < len(fruits):
 ## Exercise 3 Identify Numbers
 
 Write a Python program `identify_even_odd.py`, which takes a list of numbers(below) as input to find out the even and the odd numbers.
+> :bulb: **Tip:** To determine if a value is even or odd in Python, you can use the modulus operator `%`. This operator returns the remainder of a division operation. If a number divided by 2 has a remainder of 0, it is even; otherwise, it is odd.
 
 ```python
 # the list as input
