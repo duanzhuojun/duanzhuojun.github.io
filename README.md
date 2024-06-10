@@ -524,7 +524,7 @@ There are various ways to enhance the dice rolling simulator, providing more int
 
 #### Implement your idea using Python. 
 
-Feel free to ask for help if you have any questions.
+Before writing your code, discuss your ideas with TAs or professors. Don't hesitate to ask for help if you have any questions.
 
 
 ## References and resources
