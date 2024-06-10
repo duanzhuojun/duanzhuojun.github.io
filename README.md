@@ -233,7 +233,6 @@ print(sorted_list)  # Output: [1, 1, 2, 3, 3, 4, 5, 5, 5, 6, 9]
 
 - `list.append(x)`: Adds an item `x` to the end of the list.
 - `list.remove(x)`: Removes the first item from the list whose value is `x`.
-- `list.pop([i])`: Removes and returns the item at the given position `i` in the list. If no index is specified, `list.pop()` removes and returns the last item in the list.
 - `list.clear()`: Removes all items from the list.
 
 #### Python List Methods Examples
