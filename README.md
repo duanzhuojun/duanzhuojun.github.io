@@ -475,7 +475,8 @@ Here’s how you can use it:
 ```python
 import random
 
-# example 1: Simulating the roll of a six-sided dice, where the possible outcomes are between 1(inclusive) and 6(inclusive).
+# example 1: Simulating the roll of a six-sided dice,
+# where the possible outcomes are between 1(inclusive) and 6(inclusive).
 dice_roll = random.randint(1, 6)
 print("You rolled a ", dice_roll)
 
