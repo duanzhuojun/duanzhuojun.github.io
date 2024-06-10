@@ -77,7 +77,7 @@ Write a Python program `introduce_yourself.py` that prints an introduction messa
 2. One sentence about yourself.
 3. The reason you are attending this camp.
 
-> :bulb: **Tip:** You will save yourself some trouble during this camp if you get into the habit of organizing your Python files and other related files into a specific folder, named as `camp2024`.
+> :bulb: **Tip:** You will save yourself some trouble during this camp if you get into the habit of organizing your Python files and other related files into a specific folder, named as `JMUcamp2024`.
 
 
 #### Example Output
